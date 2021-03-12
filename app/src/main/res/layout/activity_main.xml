@@ -10,5 +10,4 @@
     tools:context=".MainActivity"
     tools:listitem="@layout/list_item">
 
-
 </androidx.recyclerview.widget.RecyclerView>
